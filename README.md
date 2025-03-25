@@ -17,14 +17,16 @@ Ensure you have the following installed before running the application:
 
 ### **Steps to Run the App Locally**  
 1. **Clone the Repository:**  
-   git clone https://github.com/YOUR-USERNAME/currensee-flutter.git
+   git clone https://github.com/smokemoha/currensee-flutter.git
 Navigate to the Project Directory:
 cd currensee-flutter
 Install Dependencies:
 flutter pub get
 Run the Application on an Emulator or Device:
 flutter run
+
 Functional Features
+
 ✅ User Registration & Authentication – Secure login via email/password or social media.
 ✅ Currency Conversion – Select a base currency, target currency, and convert in real time.
 ✅ Exchange Rate Information – View live and historical exchange rates with trend analysis.
